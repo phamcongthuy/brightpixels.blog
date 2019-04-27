@@ -1,14 +1,14 @@
-timsmith:
-  display_name: Timothy B. Smith
-  title: Founder and Editor-in-Chief
-  twitter: smithtimmytim
-  github: smithtimmytim
-  web: http://ttimsmith.com
-  email: smith@ttimsmith.com
+tiepz:
+  display_name: Phạm Xuân Tiếp
+  title: Sáng lập và duy trì
+  twitter: tiepz
+  github: 
+  web: https://tiepz.com
+  email: chao@tiepz.com
   bio: >
-    Tim is a a frontend designer, writer, and photography enthusiast. He's currently building [Bokeh](https://bokeh.pics), a better way to share photos with friends and family. Tim lives in Oceanside, CA with his beautiful. When away from his keyboard, he reads comics, watches movies, and writes here.
-  gravatar: febbffcb54abe1be1435720fc2268237
-  author_path: timsmith
+    Tiếp là người viết chủ đề nội dung của [Tiepz Studio](https://tiepz.com), và là người cung cấp nguồn vốn kinh phí để duy trì các nội dung này cũng như bảo trì nó.
+  gravatar: 5fe9ea954bc315f9215e087b87489f20
+  author_path: tiepz
 tjdraper:
   display_name: TJ Draper
   title: Contributing Writer
