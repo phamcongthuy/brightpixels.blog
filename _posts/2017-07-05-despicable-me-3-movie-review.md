@@ -9,7 +9,7 @@ review:
   rating: 2.5
   type: movie
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/despicable-me-3/
+    letterboxd: https://letterboxd.com/tiepz/film/despicable-me-3/
 ---
 
 <div class="iframe-container">

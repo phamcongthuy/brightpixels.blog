@@ -6,7 +6,7 @@ categories:
 custom_type: post
 ---
 
-Back in June, I wrote [a post on my RSS consumption setup](https://ttimsmith.com/2013/06/a-new-rss-setup). The setup has changed a little, so I wanted to write an updated version that I can point people to.
+Back in June, I wrote [a post on my RSS consumption setup](https://tiepz.com/2013/06/a-new-rss-setup). The setup has changed a little, so I wanted to write an updated version that I can point people to.
 
 When I wrote the first post, there were a couple of apps and services that I was using. In case you don't want to go read the previous post, the gist was that I was using [Feed Wrangler](https://feedwrangler.net/) to power the backend, [Mr. Reader](http://www.curioustimes.de/mrreader/) on the iPad, and [ReadKit](http://readkitapp.com/) on the Mac.
 

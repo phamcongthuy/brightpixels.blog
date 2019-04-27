@@ -15,7 +15,7 @@ review:
   type: movie
   rating: 3.5
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/mrs-doubtfire/
+    letterboxd: https://letterboxd.com/tiepz/film/mrs-doubtfire/
 ---
 
 <figure class="extendout">

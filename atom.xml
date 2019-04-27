@@ -41,7 +41,7 @@ layout:
             <h2>{{ post.subtitle }}</h2>
           {% endif %}
           {{ post.content | strip_toc }}
-          {% if post.author != 'timsmith' %}
+          {% if post.author != 'tiepz' %}
             {% assign author = site.data.authors[post.author] %}
             <p>
               <a 

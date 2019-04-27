@@ -90,4 +90,4 @@ I'm very happy with my purchase. As I described, I do have some complaints here 
 
 ---
 
-*Photography by [Timothy B. Smith](/authors/timsmith).*
+*Photography by [Timothy B. Smith](/authors/tiepz).*

@@ -5,7 +5,7 @@ excerpt: Find out more about Bright Pixels.
 layout: page
 ---
 
-_Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.com), in sunny [Oceanside, CA](https://en.wikipedia.org/wiki/Oceanside%2C_California).
+_Bright Pixels_ is designed and developed by me, [Tim Smith](http://tiepz.com), in sunny [Oceanside, CA](https://en.wikipedia.org/wiki/Oceanside%2C_California).
 
 <figure class="extendout">
   {% include_cached img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
@@ -32,7 +32,7 @@ I originally started this site thinking I'd be the next [John Gruber](https://en
 
 Send me an email anytime. I love getting an email from actual people. If you have a product you'd like me to review, feel free to reach out.
 
-- Email: [smith@ttimsmith.com](mailto:smith@ttimsmith.com?subject=[brightpixels.blog] Hey Tim!)
+- Email: [smith@tiepz.com](mailto:smith@tiepz.com?subject=[brightpixels.blog] Hey Tim!)
 
 - Follow me on Micro.blog: [@smith](https://micro.blog/smith)
 - Follow me on [Flickr](https://www.flickr.com/photos/smithtimmytim/)

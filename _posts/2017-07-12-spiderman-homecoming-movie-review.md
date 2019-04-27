@@ -10,7 +10,7 @@ review:
   rating: 4
   type: movie
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/spider-man-homecoming/
+    letterboxd: https://letterboxd.com/tiepz/film/spider-man-homecoming/
 ---
 
 <div class="iframe-container">

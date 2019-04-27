@@ -67,4 +67,4 @@ In the small amount of time I've been using Grammarly, I already feel my writing
 
 ---
 
-*Kindly edited by [Kelly Smith](/authors/kellysmith). Photography by [Timothy B. Smith](/authors/timsmith).*
+*Kindly edited by [Kelly Smith](/authors/kellysmith). Photography by [Timothy B. Smith](/authors/tiepz).*

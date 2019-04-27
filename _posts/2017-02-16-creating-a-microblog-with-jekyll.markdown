@@ -11,7 +11,7 @@ I wanted to get away from Twitter. If you don't get why, that's ok. It's not the
 
 {% include toc.html %}
 
-[Jekyll][6056-0001] makes it easy to setup a microblog. [I recently created my own microblog](https://ttimsmith.com/microblog/), and made videos about it. There's a [part one](https://youtu.be/-B0BOxXnmOc) and [part two](https://youtu.be/ZdRurBOmZLs). I thought I'd show you how I made mine. It's not the only way, it's just one way. Let's get started.
+[Jekyll][6056-0001] makes it easy to setup a microblog. [I recently created my own microblog](https://tiepz.com/microblog/), and made videos about it. There's a [part one](https://youtu.be/-B0BOxXnmOc) and [part two](https://youtu.be/ZdRurBOmZLs). I thought I'd show you how I made mine. It's not the only way, it's just one way. Let's get started.
 
 [6056-0001]: http://jekyllrb.com/
 
@@ -120,7 +120,7 @@ Now let's create a new SCSS file for our microblog styles called `microblog.scss
 }
 ```
 
-This will style our list of microblog posts, the date that we published them on, and the individual permalink pages of each post. If you want to see these styles in action, [take a look at my microblog](https://ttimsmith.com/microblog).
+This will style our list of microblog posts, the date that we published them on, and the individual permalink pages of each post. If you want to see these styles in action, [take a look at my microblog](https://tiepz.com/microblog).
 
 ## Creating the Feed
 
@@ -134,27 +134,27 @@ Now let's make an RSS feed so people can subscribe to our microblog. It's just l
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
   <title>Tim Smith’s Microblog</title>
   <subtitle>By Timothy B. Smith</subtitle>
-  <link href="https://ttimsmith.com/microblog"/>
-  <link type="application/atom+xml" rel="self" href="https://ttimsmith.com/microblog.xml"/>
+  <link href="https://tiepz.com/microblog"/>
+  <link type="application/atom+xml" rel="self" href="https://tiepz.com/microblog.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <rights>Copyright © 2008–{{ site.time | date: "%Y" }} Timothy B. Smith</rights>
-  <id>https://ttimsmith.com</id>
+  <id>https://tiepz.com</id>
   <author>
     <name>Timothy B. Smith</name>
-    <uri>https://ttimsmith.com</uri>
-    <email>smith@ttimsmith.com</email>
+    <uri>https://tiepz.com</uri>
+    <email>smith@tiepz.com</email>
   </author>
   {% for post in site.microblog reversed %}
 
   <entry>
-    <id>https://ttimsmith.com{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.com{{ post.url }}"/>
+    <id>https://tiepz.com{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://tiepz.com{{ post.url }}"/>
     <title></title>
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>Timothy B. Smith</name>
-      <uri>http://ttimsmith.com</uri>
+      <uri>http://tiepz.com</uri>
     </author>
     <content type="html">
       <![CDATA[
@@ -182,4 +182,4 @@ This is really tough. Jekyll has no API that I can hook into to publish posts an
 
 ## Conclusion
 
-This is one of the ways to create a basic microblog. I'm sure there are things I haven't thought of yet, which I'll have to address down the road. Are you microblogging? What are you using for yours? Have you solved some of the problems I haven't fixed yet? I'd love to hear all about it! [Send an email to smith@ttimsmith.com](mailto:smith@ttimsmith.com).
+This is one of the ways to create a basic microblog. I'm sure there are things I haven't thought of yet, which I'll have to address down the road. Are you microblogging? What are you using for yours? Have you solved some of the problems I haven't fixed yet? I'd love to hear all about it! [Send an email to smith@tiepz.com](mailto:smith@tiepz.com).

@@ -9,7 +9,7 @@ review:
   type: movie
   rating: 4.5
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/wonder-woman-2017/
+    letterboxd: https://letterboxd.com/tiepz/film/wonder-woman-2017/
 ---
 
 <div class="iframe-container">

@@ -10,7 +10,7 @@ review:
   type: movie
   rating: 4.5
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/ralph-breaks-the-internet/
+    letterboxd: https://letterboxd.com/tiepz/film/ralph-breaks-the-internet/
 featured_image: "/uploads/ralph-BTI-featured.jpg"
 excerpt: My thoughts on this great movie
 ---

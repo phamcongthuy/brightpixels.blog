@@ -10,7 +10,7 @@ Trent Walton:
 
 > I’ve logged quite a lot of hours battling databases, plugins, and a GUI editor to write (and occasionally design) blog posts. Wordpress has served me well, but to simplify the process I’ve ported my blog to [Jekyll](https://jekyllrb.com/). It’s great to be static! Writing already feels more casual and enjoyable.
 
-Welcome to the light side, Mr. Walton. I moved my [personal site to Jekyll back in 2013](https://ttimsmith.com/2013/08/moving-over-to-jekyll) and have never looked back. Since then, I haven't built a personal project with WordPress. Back then I asked myself if I was going to be anti-WordPress:
+Welcome to the light side, Mr. Walton. I moved my [personal site to Jekyll back in 2013](https://tiepz.com/2013/08/moving-over-to-jekyll) and have never looked back. Since then, I haven't built a personal project with WordPress. Back then I asked myself if I was going to be anti-WordPress:
 
 > Not at all. I love WordPress. I’ve been working with WordPress for years. However, I work on this site a lot, and I found myself very frustrated with how WordPress handles a simple blog. The honest truth, WordPress is too much for just a blog these days.
 

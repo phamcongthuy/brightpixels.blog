@@ -9,7 +9,7 @@ review:
   type: movie
   rating: 2.5
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/batman-v-superman-dawn-of-justice/
+    letterboxd: https://letterboxd.com/tiepz/film/batman-v-superman-dawn-of-justice/
 featured_image: "/uploads/2016/03/batmanvsuperman.jpg"
 ---
 

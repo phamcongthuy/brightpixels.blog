@@ -11,7 +11,7 @@ review:
   type: movie
   rating: 3.5
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/rogue-one-a-star-wars-story/
+    letterboxd: https://letterboxd.com/tiepz/film/rogue-one-a-star-wars-story/
 featured_image: "/uploads/2016/12/rogue-one-jyn-erso.jpg"
 ---
 

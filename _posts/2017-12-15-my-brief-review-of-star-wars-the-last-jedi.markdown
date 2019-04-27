@@ -11,7 +11,7 @@ review:
   type: movie
   rating: 5
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/star-wars-the-last-jedi/
+    letterboxd: https://letterboxd.com/tiepz/film/star-wars-the-last-jedi/
 featured_image: "/uploads/media/luke-skywalker.jpg"
 ---
 

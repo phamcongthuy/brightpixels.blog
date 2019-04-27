@@ -106,7 +106,7 @@ Lastly, make sure you’re using relative URLs for assets. I ran into a javascri
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 ```
 
-That’s it! Now just push your repo to Heroku, and it’ll build the site and serve it. If you’d like to dig through the repo for this site, [it’s on GitHub](https://github.com/ttimsmith/theboldreport.net).
+That’s it! Now just push your repo to Heroku, and it’ll build the site and serve it. If you’d like to dig through the repo for this site, [it’s on GitHub](https://github.com/tiepz/theboldreport.net).
 
 [^1]: Not to mention, it was difficult to find a pattern of how people do this. You’ll usually do research on something like this and all the blog posts will point you to the same steps. Not here. There were like four different ways, some that seemed simple, and others that were quite complex and required knowledge of routes in Sinatra. Craziness.
 

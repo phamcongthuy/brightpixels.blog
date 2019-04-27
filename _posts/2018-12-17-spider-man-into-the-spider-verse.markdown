@@ -12,7 +12,7 @@ review:
   type: movie
   rating: 5
   movie:
-    letterboxd: https://letterboxd.com/ttimsmith/film/spider-man-into-the-spider-verse/
+    letterboxd: https://letterboxd.com/tiepz/film/spider-man-into-the-spider-verse/
 ---
 
 <figure class="extendout">
