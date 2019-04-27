@@ -1,7 +1,7 @@
 ---
 ---
 
-Bright Pixels
+Tiepz Magazine
 is made by some truly awesome humans.
 
 /* Site */

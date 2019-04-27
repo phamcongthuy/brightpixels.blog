@@ -1,18 +1,18 @@
 ---
 title: About
 permalink: "/about/"
-excerpt: Find out more about Bright Pixels.
+excerpt: Find out more about Tiepz Magazine.
 layout: page
 ---
 
-_Bright Pixels_ is designed and developed by me, [Tim Smith](http://tiepz.com), in sunny [Oceanside, CA](https://en.wikipedia.org/wiki/Oceanside%2C_California).
+_Tiepz Magazine_ is designed and developed by me, [Tim Smith](http://tiepz.com), in sunny [Oceanside, CA](https://en.wikipedia.org/wiki/Oceanside%2C_California).
 
 <figure class="extendout">
   {% include_cached img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
   <figcaption>Photo by <a href="https://www.jaimielaurenphoto.com/">Jaimie Lauren</a></figcaption>
 </figure>
 
-<mark markdown="span">If this is your first time visiting *Bright Pixels*, be sure to read [HELLO&nbsp;WORLD](/hello/).</mark>
+<mark markdown="span">If this is your first time visiting *Tiepz Magazine*, be sure to read [HELLO&nbsp;WORLD](/hello/).</mark>
 
 ## About Tim
 
@@ -70,4 +70,4 @@ A huge thanks to the friends who've contributed to this site: [TJ Draper](/autho
 
 ## Affiliate Links
 
-Some of the links on this site are affiliate links. When you use them, _Bright Pixels_ gets a small commission for what you buy at no cost to you. Thank you for your support.
+Some of the links on this site are affiliate links. When you use them, _Tiepz Magazine_ gets a small commission for what you buy at no cost to you. Thank you for your support.

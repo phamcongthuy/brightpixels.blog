@@ -1,5 +1,5 @@
 ---
-title: Bright Pixels
+title: Tiepz Magazine
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -27,7 +27,7 @@ defaults:
         rating:
         movie:
           letterboxd:
-name: Bright Pixels
+name: Tiepz Magazine
 url: https://brightpixels.blog
 description:
   A web-column about comic books, Star Wars, movies, Apple, technology,
