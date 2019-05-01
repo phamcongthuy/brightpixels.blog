@@ -11,6 +11,6 @@ layout: page
 
 Email not your thing? No problem!
 
-- RSS Feed: <https://feedpress.me/brightpixels>
+- Tiepz shop: <https://tiepz.com>
 - Follow *Tiepz Magazine* on Facebook: [@tiepz](https://facebook.com/tiepz)
 
