@@ -12,5 +12,5 @@ layout: page
 Email not your thing? No problem!
 
 - RSS Feed: <https://feedpress.me/brightpixels>
-- Follow *Tiepz Magazine* on Twitter: [@brightpxblog](https://twitter.com/brightpxblog)
+- Follow *Tiepz Magazine* on Facebook: [@tiepz](https://facebook.com/tiepz)
 
