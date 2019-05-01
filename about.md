@@ -5,7 +5,7 @@ excerpt: Find out more about Tiepz Magazine.
 layout: page
 ---
 
-_Tiepz Magazine_ is designed and developed by me, [Tim Smith](http://tiepz.com), in sunny [Oceanside, CA](https://en.wikipedia.org/wiki/Oceanside%2C_California).
+_Tiepz Magazine_ chuyên viết về nuôi thỏ, trồng cây ươm cây chất lượng để nuôi thỏ, [Tiepz Studio](http://tiepz.com), tỏa sáng tại [Thành phố Thái Bình, TB. Việt Nam](https://tiepz.com).
 
 <figure class="extendout">
   {% include_cached img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
